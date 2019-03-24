@@ -3,7 +3,7 @@ public class HelloTest {
         YanWeiQi y = new YanWeiQi();
         WeiRongLai w=new WeiRongLai();
         GuoZengJia g=new GuoZenJia();
-        ZhengYueCheng z=new ZhengYueCheng();
+        ZhengYueChen z=new ZhengYueChen();
 
         y.sayHello();
         w.sayHello();
